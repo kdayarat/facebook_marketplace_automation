@@ -1,0 +1,12 @@
+title: Upright Piano
+price: 250
+category: Musical Instruments
+condition: Used - Like New
+description: This antique vintage piano is great for the family!
+location: Waterloo, Ontario
+images: # Maximum of 10 images allowed
+  - image.jpg
+  - keys.jpg
+  - authentic.jpg
+
+# try selenium headless automation

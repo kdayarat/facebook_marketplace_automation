@@ -1,0 +1,17 @@
+<page>
+    <data>
+        <title>Downleft mouth organ</title>
+        <price>250</price>
+        <category>Musical Instruments</category>
+        <condition>Used - Like New</condition>
+        <description>This antique vintage piano is great for the family!</description>
+        <location>Waterloo, Ontario</location>
+        <images> <!--Maximum of 10 images allowed, all have to be in the same directory as the source file -->
+            <image>\image.jpg</image>
+            <image>\behemoth.jpg</image>
+            <image>\Owlet.png</image>
+        </images>
+    </data>
+</page>
+
+<!-- make a yammel file, multiple images need to be uploaded. look for a specific ad -->
