@@ -9,4 +9,5 @@ images: # Maximum of 10 images allowed
   - keys.jpg
   - authentic.jpg
 
-# try selenium headless automation
+# try selenium headless automation (arg parse??)
+# Make additional file for the login info
